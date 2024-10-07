@@ -1,4 +1,4 @@
-# CS4: Evaluating LLM Creativity in Story Generation
+# CS4: Evaluating LLM Creativity and Instruction-following Ability in Story Generation
 
 ## Abstract
 
